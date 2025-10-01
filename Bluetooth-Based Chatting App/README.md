@@ -11,7 +11,7 @@ A backend for an Android Bluetooth-Based Chatting App. This backend handles send
 ## Required Technologies
 - Java 8+
 - Any IDE like IntelliJ IDEA or Eclipse
-- Android Studio (for Android integration)
+- Android Studio
 
 ## How to Run
 1. Clone the repository or download the files.
