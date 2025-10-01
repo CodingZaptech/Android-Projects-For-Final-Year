@@ -10,7 +10,7 @@ A backend for an Android Face Detection App using Mobile Vision API to detect fa
 ## Required Technologies
 - Java 8+
 - IDE like IntelliJ IDEA or Eclipse
-- Android Studio (for frontend integration)
+- Android Studio
 - Google Mobile Vision API
 
 ## How to Run
