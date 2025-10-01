@@ -10,7 +10,7 @@ A backend for an Android Smart Travel Guide App that manages travel spots and pr
 ## Required Technologies
 - Java 8+
 - IDE like IntelliJ IDEA or Eclipse
-- Android Studio (for frontend integration)
+- Android Studio 
 
 ## How to Run
 1. Clone the repository or download the files.
