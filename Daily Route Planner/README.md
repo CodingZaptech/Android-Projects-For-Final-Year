@@ -11,7 +11,7 @@ A backend for an Android Daily Route Planner App that helps users plan and manag
 ## Required Technologies
 - Java 8+
 - IDE like IntelliJ IDEA or Eclipse
-- Android Studio (for frontend integration)
+- Android Studio 
 
 ## How to Run
 1. Clone the repository or download the files.
