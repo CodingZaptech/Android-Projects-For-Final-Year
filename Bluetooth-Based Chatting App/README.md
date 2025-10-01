@@ -1,4 +1,4 @@
-# Android Bluetooth-Based Chatting App Backend
+# Android Bluetooth-Based Chatting App (Backend)
 
 A backend for an Android Bluetooth-Based Chatting App. This backend handles sending, storing, and retrieving chat messages.
 
